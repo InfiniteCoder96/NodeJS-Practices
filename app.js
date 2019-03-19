@@ -1,4 +1,4 @@
-console.log('Hello World');
+console.log('Starting app...');
 
 const fs = require('fs');
 
