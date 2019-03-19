@@ -1,8 +1,8 @@
-console.log('Starting app...');
+console.log('Starting app.js');
 
 const fs = require('fs');
 const os = require('os')
-
+const notes = require('./note.js')
 var user = os.userInfo();
 
 // Option one
